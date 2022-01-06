@@ -1,0 +1,7 @@
+{
+    "name": "geissweb/namespace",
+    "description": "Registers vendor namepsace for packagist",
+    "authors": [],
+    "require": {},
+    "license": "MIT"
+}
